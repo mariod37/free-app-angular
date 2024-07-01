@@ -1,0 +1,9 @@
+.titulo {
+  text-align: center;
+  font-size: 3.8rem;
+  background-color: #7575757c;
+
+}
+.titulo span {
+  font-size:2rem;
+}
